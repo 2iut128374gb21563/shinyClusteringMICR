@@ -28,6 +28,6 @@ Die App kann über die R Console mit der Funktion\
 `shinyClusteringMICR::runShinyClusteringMICR()` im Standardbrowser gestartet werden.
 
 Für eine Übersicht der vorhandenen Funktionen und detaillierte Dokumentation des Packages\
-`?shinyClusteringMICR`\
+`?shinyClusteringMICR` aufrufen\
 -ODER-\
 den Index der Dokumentation mit `help(package = "shinyClusteringMICR")` aufrufen.
