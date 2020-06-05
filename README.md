@@ -31,3 +31,7 @@ Für eine Übersicht der vorhandenen Funktionen und detaillierte Dokumentation d
 `?shinyClusteringMICR` aufrufen\
 -ODER-\
 den Index der Dokumentation mit `help(package = "shinyClusteringMICR")` aufrufen.
+\
+\
+\
+*Studienleistung von David Hruska für das Modul Microarrayanaylse mit R*
